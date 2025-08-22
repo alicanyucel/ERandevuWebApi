@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36212.18 d17.14
+VisualStudioVersion = 17.14.36212.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.Application", "EAppointmentNet9.Application\EAppointmentNet9.Application.csproj", "{E1770F68-D5A1-4753-A78A-C62657780758}"
 EndProject
@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.Domain", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.Infrastructure", "EAppointmentNet9.Infrastructure\EAppointmentNet9.Infrastructure.csproj", "{75DF3E7B-B50A-487D-9FF6-E4ED290D7F15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EApointmentNet9.WebApi", "EApointmentNet9.WebApi\EApointmentNet9.WebApi.csproj", "{FE6254A8-4D50-430B-9CE0-AF33E6217AE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.WebApi", "EAppointmentNet9.WebApi\EAppointmentNet9.WebApi.csproj", "{892DFB2E-26DA-4CA8-B6F7-967D0AD85218}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{75DF3E7B-B50A-487D-9FF6-E4ED290D7F15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75DF3E7B-B50A-487D-9FF6-E4ED290D7F15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75DF3E7B-B50A-487D-9FF6-E4ED290D7F15}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FE6254A8-4D50-430B-9CE0-AF33E6217AE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE6254A8-4D50-430B-9CE0-AF33E6217AE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE6254A8-4D50-430B-9CE0-AF33E6217AE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE6254A8-4D50-430B-9CE0-AF33E6217AE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892DFB2E-26DA-4CA8-B6F7-967D0AD85218}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892DFB2E-26DA-4CA8-B6F7-967D0AD85218}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892DFB2E-26DA-4CA8-B6F7-967D0AD85218}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892DFB2E-26DA-4CA8-B6F7-967D0AD85218}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

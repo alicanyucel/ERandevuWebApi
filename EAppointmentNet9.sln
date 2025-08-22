@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.Applicatio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.Domain", "EAppointmentNet9.Domain\EAppointmentNet9.Domain.csproj", "{42377BF7-BBF9-4760-9FB4-4C919242C266}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EEAppointmentNet9.WebApi", "EEAppointmentNet9.WebApi\EEAppointmentNet9.WebApi.csproj", "{5911CB42-3CDE-4AE9-B513-8558AD133C8B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.WebApi", "EEAppointmentNet9.WebApi\EAppointmentNet9.WebApi.csproj", "{5911CB42-3CDE-4AE9-B513-8558AD133C8B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EAppointmentNet9.Infrastructure", "EAppointmentNet9.Infrastructure\EAppointmentNet9.Infrastructure.csproj", "{75DF3E7B-B50A-487D-9FF6-E4ED290D7F15}"
 EndProject

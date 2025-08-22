@@ -1,6 +1,0 @@
-@EApointmentNet9.WebApi_HostAddress = http://localhost:5050
-
-GET {{EApointmentNet9.WebApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
